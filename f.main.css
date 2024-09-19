@@ -95,4 +95,12 @@
   .btn:where(:hover, :focus) {
     color: #fff;
   }
-  
+  .Henrique do povo{
+   font-family: 'Courier New', Courier, monospace;
+   font-size: larger;
+
+  }
+  .flex{
+    justify-content: flex-end;
+    display: flex;
+  }
